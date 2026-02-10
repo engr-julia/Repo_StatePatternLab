@@ -1,7 +1,7 @@
 # 🥤 Vending Machine – State Pattern Implementation
 
 ## UML Diagram
-![Vending Machine UML](VENDING UML.jpeg)
+![Vending Machine UML Diagram](VENDING%20UML.JPG)
 
 
 ## 🚀 Project Overview
